@@ -54,5 +54,6 @@
     <None Include="src\shaders\image.vert">
       <Filter>Source Files</Filter>
     </None>
+    <None Include=".gitignore" />
   </ItemGroup>
 </Project>

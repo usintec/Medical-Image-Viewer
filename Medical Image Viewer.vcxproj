@@ -148,6 +148,7 @@
     <Image Include="..\..\..\Downloads\brain_slice.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitignore" />
     <None Include="src\shaders\image.frag" />
     <None Include="src\shaders\image.vert" />
   </ItemGroup>
